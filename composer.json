@@ -1,7 +1,7 @@
 {
     "name": "gindow/sdk-php",
     "description": "The Gindow SDK for PHP makes it easy for developers to access Gindow Cloud Services in their PHP code, and build robust applications and software using services.",
-    "license": "MIT License",
+    "license": "MIT",
     "authors": [
         {
             "name": "Gindow",
