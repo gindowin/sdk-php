@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__ . '/vendor/autoload.php';
 
-use Hello\Gindow;
+use Gindow\Settings;
 
-echo Gindow::settings_get('appName');
+echo Settings::get('appName');
