@@ -2,11 +2,11 @@
  
 namespace Hello; 
  
-class Hello
+class Gindow
 {
-    public static function gindow()
+    public static function settings_get($key)
     {
-        return "Hello Gindow!\n";
+        return "$key: UCars\n";
     }
 }
 
